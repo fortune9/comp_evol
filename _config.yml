@@ -4,8 +4,8 @@ permalink:           pretty
 # Setup
 title:               Computational and Evolutionary Biology Tips
 tagline:             A resource to share problem solutions in computational biology and evolutionary biology
-url:                 http://fortune9.github.io/comp_evol
-baseurl:             /
+url:                 https://fortune9.github.io/
+baseurl:             /comp_evol
 analytics_id:
 exclude: []
 port: 8080
