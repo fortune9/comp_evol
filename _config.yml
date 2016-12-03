@@ -2,23 +2,23 @@
 permalink:           pretty
 
 # Setup
-title:               Progress
-tagline:             A responsive blog theme that illustrates reading progress. Suited for continous reading.
-url:                 http://alexanderussell.github.io
-baseurl:             /progress-for-jekyll
+title:               Computational and Evolutionary Biology Tips
+tagline:             A resource to share problem solutions in computational biology and evolutionary biology
+url:                 http://fortune9.github.io/comp_evol
+baseurl:             /
 analytics_id:
+exclude: []
+port: 8080
 
 # Owner/author information
 owner:
-  name:           Alex Russell
+  name:           Zhenguo Zhang
   avatar:         avatar.png
-  bio:            "Designer."
-  email:          alex@collectivelymade.com
-  twitter:        alexanderussell
-  github:         alexanderussell
-  instagram:      alexanderussell
-  dribbble:       alexanderussell
-  location:       "Lincoln, NE"
+  bio:            "Computational Biologist"
+  email:          zhangz.sci@gmail.com
+  twitter:        fortunezhang
+  github:         fortune9
+  location:       "Rochester, NY"
 
 
 # Custom vars
