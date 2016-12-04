@@ -1,5 +1,6 @@
 ---
 title: a test markdown page
+layout: page
 ---
 
 # This is a test page
